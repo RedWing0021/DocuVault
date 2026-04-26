@@ -123,8 +123,8 @@ This project is **MIT Licensed**. Feel free to use and improve it! 🚀
 ---
 
 ## **📞 Contact**
-👨‍💻 **Developed by:** _Your Name_  
-📧 **Email:** nitinprofessional7838.@gmail.com
+👨‍💻 **Developed by:** Nitin Dwivedi <!-- atleast you should your name so that it doesn't look like you simply copied from ai (without taking any effort)  -->  
+📧 **Email:** nitinprofessional7838.@gmail.com <!-- and don't include 'professional' in your mail instead make an email which look professional-->
 🌐 **GitHub:** [WithTrend](https://github.com/withTrend)  
 
 ---
